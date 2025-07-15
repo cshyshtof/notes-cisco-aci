@@ -1,8 +1,5 @@
 ---
 type: zettel
-technology:
-aliases:
-summary:
 ---
 
 ```meta-bind-button
