@@ -6,7 +6,7 @@ This repo is a part of my personal notes, gathered during my CCIE Data Center pr
 
 Initially, I created all my notes in a form of mindmaps, using MS Visio. Although, it is a great tool, it is very static. I decided to migrate all my notes to a markdown form. It's easier to maintain, update and transform the notes (for example to a mindmap).
 
-I am big fan of Obsidian, so all notes include some additional meta data. You can use them in your own Obsidian notes or ignore them.
+I am a big fan of Obsidian, so all notes include some additional meta data. You can use them in your own Obsidian notes or ignore them.
 
 ## Disclaimer
 

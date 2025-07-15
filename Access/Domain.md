@@ -18,14 +18,14 @@ actions:
 
 - Concept
 	- Defines what will be connected to the fabric
-	- Indirectly defines which VLANs are allowed to be assigned on interfaces
-	- You can categorize by type of access, but also by environment (test, prod)
+	- Indirectly defines which **VLANs** are allowed to be assigned on interfaces
+	- You can categorize it by type of access, but also by environment (test, prod)
 - Types
-	- VMM - created during VMM integration (*Virtual Networking*)
-	- Physical - bare metal, routers, hypervisor without VMM integration
-	- L3Out - external routing devices, no EPs
-	- L2Out - not really used anymore
-	- FC - becomes obsolete
+	- **VMM** - created during VMM integration (*Virtual Networking*)
+	- **Physical** - bare metal, routers, hypervisor without VMM integration
+	- **L3Out** - external routing devices, no EPs
+	- **L2Out** - not really used anymore
+	- **FC** - becomes obsolete
 - Config
 	- *Fabric > Access Policies > Physical And External Domains*
 	- *VLAN Pool*; - Only one pool can be assigned to a domain; - Do not assign the same VLAN pool to different domains (loops may occur)
