@@ -29,6 +29,7 @@ actions:
 	- *Enable Infrastructure VLAN*; - Used when fabric needs to be extended, mainly for AVE or K8S; - Infra VLAN is added to the list of allowed VLANs
 	- *EPG Deployment*; - Allowed VLANs are programmed on ports to which AAEP is assigned; - Another way is to add a static path in EPG
 	- Assigned to *Interface Policy Group*
+	- It can be assigned directly to EPG (Static AEP) since 6.1(3)
 - VMM
 	- VMM domain automatically derives physical interface policies
 	- An override policy is useful where a VMM is connected via L2 node
